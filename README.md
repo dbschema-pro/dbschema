@@ -1,5 +1,5 @@
 # DbSchema: Visual Database Designer & Management Tool
-#### The art of keeping data together
+#### Simplify how you design, manage, and connect data.
 
 ## DbSchema
 
@@ -29,19 +29,19 @@ For community discussions, support, and feedback, visit our [Forum](https://gith
 
 ___
 ## DbSchema Overview
-DbSchema Model: Design your database visually by creating tables, defining foreign keys, adding tags, comments, and more. The model is independent of the database, allowing you to work offline and sync changes later.
+**DbSchema Model**: Design your database visually by creating tables, defining foreign keys, adding tags, comments, and more. The model is independent of the database, allowing you to work offline and sync changes later.
 
 ![DbSchema GUI](resources/dbschema-model.png "DbSchema Model")
 
-Relational Data Editor: Explore and edit data from multiple tables simultaneously, even without writing SQL code. Use foreign keys to navigate between related records easily.
+**Relational Data Editor**: Explore and edit data from multiple tables simultaneously, even without writing SQL code. Use foreign keys to navigate between related records easily.
 
 ![Relational Data Browse GUI](resources/relational-data-editor.png "DbSchema Relational Data Editor")
 
-HTML5 Documentation: Create interactive schema documentation with a vector diagram. Table and column comments appear as tooltips when you hover over them, making it easy to understand the structure and relationships in your database.
+**HTML5 Documentation**: Create interactive schema documentation with a vector diagram. Table and column comments appear as tooltips when you hover over them, making it easy to understand the structure and relationships in your database.
 
 ![HTML5 Documentation](resources/html5-documentation.png "DbSchema HTML5 Documentation")
 
-Visual Query Builder:Create complex SQL queries without writing code. Use an intuitive drag-and-drop interface to select tables, columns, and set conditions, making it easy to build queries visually. It also includes features like Group By, Filters, and Order By clauses.
+**Visual Query Builder**: Create complex SQL queries without writing code. Use an intuitive drag-and-drop interface to select tables, columns, and set conditions, making it easy to build queries visually. It also includes features like Group By, Filters, and Order By clauses.
 
 ![Visual Query Builder](resources/visual-query-builder.png "DbSchema Query Builder")
 
